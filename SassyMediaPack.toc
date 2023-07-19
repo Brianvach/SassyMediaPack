@@ -1,0 +1,10 @@
+## Interface: 100105
+
+## Title: SassyMediaPack
+## Notes: Sound pack for Sass
+## Author: Voytrekk
+## Version: v0.1
+
+## OptionalDeps: LibSharedMedia-3.0
+
+SassyMediaPack.lua
