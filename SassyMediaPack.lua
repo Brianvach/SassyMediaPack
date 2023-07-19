@@ -6,3 +6,9 @@ do
     media:Register(SOUND, "Sassy: Anime", [[Interface/Addons/SassyMediaPack/Sounds/Anime.ogg]])
     media:Register(SOUND, "Sassy: Triple", [[Interface/Addons/SassyMediaPack/Sounds/Triple.ogg]])
 end
+
+do
+    local FONT = media.MediaType and media.MediaType.FONT
+
+    media:Register(FONT, "Enigmatic", [[Interface/Addons/SassyMediaPack/Sounds/Enigmatic.tff]])
+end
